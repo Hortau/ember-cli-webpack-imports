@@ -1,4 +1,3 @@
-/* eslint-env node */
 'use strict';
 
 const WebpackDependencyPlugin = require('./lib/webpack-dependency-plugin');
